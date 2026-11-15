@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "reins-policy-decision-contract",
+  "original_repository": "shamspias/reins",
+  "legacy_sources": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/data/assessment-candidate-batches/2026-10-22-06.json",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/reins/CONTRIBUTION_HANDOFF.md"
+  ],
+  "title": "Enforce empty-principal RLS boundary consistently",
+  "work_state": "BLOCKED",
+  "next_action": "Unpublished native technical packet; no external publication or engineering until owner RESUME and exact-action authorization",
+  "source_revision": "69d5ae7e3f2336366e7567b7a476e7c71608f226",
+  "native_evidence": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/reins/CONTRIBUTION_HANDOFF.md",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/reins/empty-principal-rls-contract.patch"
+  ],
+  "work_branches": [],
+  "external_prs": [],
+  "last_event_id": null
+}
